@@ -1,0 +1,8 @@
+{
+  "name": "docker"
+  "version": "1.0.0"
+  "description": ""
+  "maintainers": ["@fj0r"]
+  "type": "module"
+  # "license": ""  # TODO: add a license to the project and put a link to it in here
+}
