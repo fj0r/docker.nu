@@ -24,7 +24,3 @@ export alias dvr = volume-remove
 export alias dn = containers-network-list
 export alias dnc = containers-network-create
 export alias dnr = containers-network-remove
-
-
-export def dx [] {
-}
